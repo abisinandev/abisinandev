@@ -8,9 +8,7 @@
 
 - [threem](http://threem.abisinan.site/)
 
-## 🌱 Currently Learning
-
-- Agentic AI, RAG, MCP
+## 🌱 Always Learning And Exploring New Technologies
 
 ## 📫 How to Reach Me
 
