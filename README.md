@@ -4,9 +4,6 @@
 
 ---
 
-## 🔭 Currently Working On
-
-- [threem](http://threem.abisinan.site/)
 
 ## 🌱 Always Learning And Exploring New Technologies
 
