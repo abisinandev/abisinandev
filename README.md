@@ -1,10 +1,8 @@
 # I'm Abisinan M
 
-Software engineer who enjoys going beneath the abstraction.
-
 ### Ask Why. Understand How. Build What Matters.
 
-I enjoy taking an idea from “what if?” to “how do we build it?” understanding the problem,
+Software engineer who enjoy taking an idea from “what if?” to “how do we build it?” understanding the problem,
 designing the system, and turning it into software that works, scales, and evolves.
 
 Strong in fundamentals:
